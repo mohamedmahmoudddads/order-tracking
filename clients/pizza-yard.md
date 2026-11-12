@@ -48,6 +48,12 @@ the leak is the chat/offer, not targeting. Fix the chat before spending more.
 - Free levers alongside: Google Business Profile, organic Reels, boost the best organic Reel only.
 - Success metric: cost per ORDER. Target chat→order rate ≥ 20–30% before scaling.
 
+## Creative learnings
+- Tested: reviews / social proof angle → weak results. Food appetite appeal + price/offer > testimonials for this client.
+- Reel bank (v1, Nov 2026): cheese pull, dough-to-oven process, ASMR cut/crunch, "بـ X جنيه تاخد إيه", order behind the scenes,
+  owner/pizzaiolo face, POV student/match night, menu ranking taste test, fast delivery timer.
+
 ## Log
 - 2026-11: Onboarded. Recommended shifting from Engagement to Messages + local Reach + retargeting.
 - 2026-11: Budget is only 600–900 EGP. WhatsApp msgs campaign = chats but few orders. Moved to v2: single ad set, persona creatives, fix chat flow.
+- 2026-11: User on site shooting. Social proof angle didn't perform. Gave reel idea bank; waiting for page link to audit creatives.
