@@ -1,7 +1,9 @@
 # Pizza Yard (بيتزا يارد)
 
 ## Client facts
-- Type: pizza restaurant, physical location in 6th of October (Egypt).
+- Type: pizza restaurant. Location: مول الحياة - الفردوس الجديدة - حدائق أكتوبر (Hadayek October, not 6th Oct city center).
+- Contacts on cover: 010 4391 5035 / 011 0928 1970, WhatsApp 015 5382 8744. (Box insert numbers looked different — verify.)
+- Brand: red/yellow, logo "Pizza Yard – Fresh & Tasty", Egyptian colloquial voice. Posts also in local FB group مدينة الفردوس.
 - Started with us: Nov 2026. User handles media buying.
 - Problem at start: ads not bringing results.
 - Tried: Engagement campaign → no results (likes/comments, no orders).
@@ -53,7 +55,14 @@ the leak is the chat/offer, not targeting. Fix the chat before spending more.
 - Reel bank (v1, Nov 2026): cheese pull, dough-to-oven process, ASMR cut/crunch, "بـ X جنيه تاخد إيه", order behind the scenes,
   owner/pizzaiolo face, POV student/match night, menu ranking taste test, fast delivery timer.
 
+## Performance snapshot (Meta, campaign "Pizza whatsapp messages", Engagement→WhatsApp, to 2026-11-12)
+- Total: 991 EGP spent, 45 conversations, 22.03 EGP/conv, reach 5,166, impressions 8,236 (freq ~1.6, CPM ~120 EGP = high).
+- Underspending: only 677.5 of 2,100 weekly budget spent → audience/bid too restrictive.
+- By ad: OFFER 2 MID (2 medium + Pepsi) 16.67/conv (best) | pizza Ad 17.25 | Reviews ad 1 39.77/conv (worst, 2.4x).
+- Organic: comments asking "menu" left unanswered. No prices in any creative. 15% opening offer (5 Nov, 1 week) expired.
+
 ## Log
 - 2026-11: Onboarded. Recommended shifting from Engagement to Messages + local Reach + retargeting.
 - 2026-11: Budget is only 600–900 EGP. WhatsApp msgs campaign = chats but few orders. Moved to v2: single ad set, persona creatives, fix chat flow.
 - 2026-11: User on site shooting. Social proof angle didn't perform. Gave reel idea bank; waiting for page link to audit creatives.
+- 2026-11-12: Brand/creative review from screenshots. Kill reviews ad, add prices, real food footage, fix narrow audience, answer menu comments.
