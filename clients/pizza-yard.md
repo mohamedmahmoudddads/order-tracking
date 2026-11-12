@@ -66,3 +66,4 @@ the leak is the chat/offer, not targeting. Fix the chat before spending more.
 - 2026-11: Budget is only 600–900 EGP. WhatsApp msgs campaign = chats but few orders. Moved to v2: single ad set, persona creatives, fix chat flow.
 - 2026-11: User on site shooting. Social proof angle didn't perform. Gave reel idea bank; waiting for page link to audit creatives.
 - 2026-11-12: Brand/creative review from screenshots. Kill reviews ad, add prices, real food footage, fix narrow audience, answer menu comments.
+- 2026-11-12: Asked about Sales objective. Answer: not now — no purchase signal from WhatsApp + tiny budget, Sales would still optimize for conversations. Fix price/offer/chat first; later A/B test Sales vs Engagement once tracking orders.
