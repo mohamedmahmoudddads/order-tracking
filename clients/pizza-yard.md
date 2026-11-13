@@ -67,3 +67,4 @@ the leak is the chat/offer, not targeting. Fix the chat before spending more.
 - 2026-11: User on site shooting. Social proof angle didn't perform. Gave reel idea bank; waiting for page link to audit creatives.
 - 2026-11-12: Brand/creative review from screenshots. Kill reviews ad, add prices, real food footage, fix narrow audience, answer menu comments.
 - 2026-11-12: Asked about Sales objective. Answer: not now — no purchase signal from WhatsApp + tiny budget, Sales would still optimize for conversations. Fix price/offer/chat first; later A/B test Sales vs Engagement once tracking orders.
+- 2026-11-13: Launched 'OFFER 2 MID with price' (no data yet) next to 'OFFER 2 MID' (13 conv, 22.39/conv, reach 2,242, freq 1.13). 'pizza Ad' paused. Budget shown 300/day — check vs 600–900 total. Plan: pause old no-price ad so the price version gets spend; judge after ~150–200 EGP on cost per conv + orders.
