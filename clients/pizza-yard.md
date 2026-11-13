@@ -61,6 +61,13 @@ the leak is the chat/offer, not targeting. Fix the chat before spending more.
 - By ad: OFFER 2 MID (2 medium + Pepsi) 16.67/conv (best) | pizza Ad 17.25 | Reviews ad 1 39.77/conv (worst, 2.4x).
 - Organic: comments asking "menu" left unanswered. No prices in any creative. 15% opening offer (5 Nov, 1 week) expired.
 
+## Framework applied: Audience + Message + Channel + Stage + Measurement (2026-11-13)
+- Cold (never heard): broad 5–7km Hadayek Oct → appetite video + price offer → Meta Reels/Feed → cost/conv, hook rate.
+- Warm (engaged/video 50%/messaged no order): → urgency/deadline offer → Meta retargeting (only when audience ~1k+) + WhatsApp follow-up → chat→order %.
+- Customers (ordered): → repeat offer, "طلبك التاني" / family/match box → WhatsApp broadcast list + GBP review ask (free) → repeat rate, reviews.
+- Budget reality: paid = cold only for now; warm/customer stages run on free channels (WhatsApp, FB groups, GBP).
+- Need: customer log sheet (date, name/phone, source, ad/code, order value, repeat?).
+
 ## Log
 - 2026-11: Onboarded. Recommended shifting from Engagement to Messages + local Reach + retargeting.
 - 2026-11: Budget is only 600–900 EGP. WhatsApp msgs campaign = chats but few orders. Moved to v2: single ad set, persona creatives, fix chat flow.
